@@ -1,1 +1,1 @@
-# devqa
+# QA SHIPPUDEN
